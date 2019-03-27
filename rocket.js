@@ -1,0 +1,1 @@
+let Rocket = function() {};
