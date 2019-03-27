@@ -1,4 +1,4 @@
-let Jet = function(color, size) {
+const Jet = function(color, size) {
   this.color = color;
   this.size = size;
 
