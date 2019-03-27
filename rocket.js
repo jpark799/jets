@@ -1,4 +1,4 @@
-let Rocket = function(color, size) {
+const Rocket = function(color, size) {
   this.color = color;
   this.size = size;
 };
